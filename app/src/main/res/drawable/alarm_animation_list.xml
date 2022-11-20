@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:drawable="@drawable/alarm1"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm2"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm3"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm4"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm5"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm6"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm7"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm8"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm9"
+    android:duration="200"/>
+    <item
+    android:drawable="@drawable/alarm10"
+    android:duration="200"/>
+</animation-list>
